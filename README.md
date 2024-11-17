@@ -2,7 +2,7 @@
 
 ## Mode d'emploi
 - utiliser un PC équipé d'un microphone
-- utiliser une source sonor de fréquence réglable (par exemple, un téléphone mobile et une application telle Phyphox)
+- utiliser une source sonore de fréquence réglable (par exemple, un téléphone mobile et une application telle Phyphox)
 - se connecter sur l'application à l'url
 - mettre en route la source sonore, elle doit rester immobile face au microphone du PC.
 - appuyer sur le bouton "mesure de la fréquence de la source"
