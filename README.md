@@ -3,7 +3,7 @@
 ## Mode d'emploi
 - utiliser un PC équipé d'un microphone
 - utiliser une source sonore de fréquence réglable (par exemple, un téléphone mobile et une application telle Phyphox)
-- se connecter sur l'application à l'url
+- se connecter sur l'application à l'url [](https://physicus68.github.io/mesure_doppler/)
 - mettre en route la source sonore, elle doit rester immobile face au microphone du PC.
 - appuyer sur le bouton "mesure de la fréquence de la source"
 - si on éloigne ou approche la source, on observe le décalage en fréquence de l'onde perçue
