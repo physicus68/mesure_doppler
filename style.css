@@ -1,0 +1,30 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+  margin: auto;
+}
+
+#application{
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  width: 900px;
+}
+
+#application > button{   
+  display: block;
+  margin: auto;
+  width: 600px;
+  font-size: x-large;  
+}
+
+#application > h1{
+  display: block;
+  margin: auto;
+  margin-bottom: 1em;
+  margin-top: 1em;
+}
